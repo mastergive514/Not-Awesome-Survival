@@ -1,7 +1,32 @@
-1.0
+Version v1.1
 
-u cant use /newlvl 
+Different wood types are now generated in worlds
+Added 2 new wood materials: light wood and dark wood
+Spider webs are now dropped from leaves, 2 in 8 chance
+Only IDs 10-11 54 62 169-170 474-476 609-621 have blockslight
+Gravestone locking, so no one will be able to touch your gravestone
 
-1.1 
 
-u cant use /map deletable
+
+
+
+
+
+
+
+
+
+
+
+
+Version v1.0
+@SpicyCombo SpicyCombo released this on 29 Jul
+
+Changes:
+
+NEW FORK OF Goodlyay/NAS on Github! ALL FEATURES KEPT!
+Added new recipes:
+Ropes, Sandstones, Lamps
+Now with Spruce trees! (Beta)
+Just extract everything into the plugins folder in your MCGalaxy server. No hassle, just like Goodly's NAS plugin. He even wrote how to use it. Link: https://github.com/goodlyay/nas
+
