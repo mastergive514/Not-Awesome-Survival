@@ -36,3 +36,6 @@ What has -not- been implemented, and probably never will be unless someone else 
 Please don't bug me for new features.
 
 Known issues (with unknown causes):  Rarely, storage containers will get erased. Rarely, the map data will get erased (no more cave fog...) Unknown issues:  Probably a lot of things.
+
+
+To Get releases use https://github.com/mastergive514/Not-Awesome-Survival/releases
